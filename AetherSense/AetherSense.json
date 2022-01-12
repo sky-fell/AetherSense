@@ -1,15 +1,16 @@
 {
-	"Author": "Ms.Tress",
+	"Author": "Ms.Tress, API contribution by The Sky Fell",
 	"Name": "Aether Sense (18+)",
 	"Description": "Elevate your gaming experience to gaming euphoria with integrated adult intimate hardware. Requires a Buttplug.io library server, such as Intiface Desktop: https://intiface.com/desktop/",
 	"InternalName": "AetherSense",
-	"AssemblyVersion": "1.0.1.0",
-	"RepoUrl": "https://github.com/Ms-Tress/AetherSense",
+	"AssemblyVersion": "1.0.2.0",
+	"RepoUrl": "https://github.com/sky-fell/AetherSense",
 	"ApplicableVersion": "any",
 	"Tags": [
 		"Ms.Tress",
+		"The Sky Fell",
 		"Intimate",
 		"Toys"
 	],
-	"DalamudApiLevel": 4
+	"DalamudApiLevel": 5
 }
